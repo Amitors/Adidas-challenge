@@ -47,12 +47,12 @@ http://localhost:3000/docs
 
 ## Nice to have/Improvements
 
-Postman collection to complement swagger
-Type validation of request
-dotenv + file with constants for multiple environments
-Typescript
-Prettier
-Linter
-Auth with JWT token in subscription instead of just using a private/public docker
-More tests (fail cases, edge cases), integration test, e2e test
-Logger
+- Postman collection to complement swagger
+- Type validation of request
+- dotenv + file with constants for multiple environments
+- Typescript
+- Prettier
+- Linter
+- Auth with JWT token in subscription instead of just using a private/public docker
+- More tests (fail cases, edge cases), integration test, e2e test
+- Logger
